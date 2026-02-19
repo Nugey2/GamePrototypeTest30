@@ -1,0 +1,134 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Well detailed but tiny file size. There were balls in here before but I had made this before joining here, so.. wth</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/c9a68bb0-0e22-4e06-bce5-9bac88834eae/ffa500b8-8168-4786-aae5-dae812426495.jpeg",
+		"publishedAt": "2025-06-20T21:19:56.572571Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/0b62621d-10a7-4dea-9acf-096b006b6728/8061f1b6-eb5e-4d17-8da0-85c934449fc4.jpeg",
+		"title": "Perfect Football / Soccer ball",
+		"uid": "441356e0-a306-47f2-adb3-20689ba2d22c",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "anDDDres",
+			"uid": "40c86c9f-f858-4ee0-aaf8-656fd6872a04"
+		},
+		"tags": [
+			{
+				"name": "Soccer",
+				"slug": "soccer",
+				"uid": "00cc0cc7-3804-434d-bc9e-c8cb53964de3"
+			},
+			{
+				"name": "League",
+				"slug": "league",
+				"uid": "9afbcfe2-b01e-4770-84c6-3e79705bdff2"
+			},
+			{
+				"name": "Perfect",
+				"slug": "perfect",
+				"uid": "ca73d67d-1790-4d00-846c-9585a7fbcaf1"
+			},
+			{
+				"name": "Team",
+				"slug": "team",
+				"uid": "ccad73d7-6549-4165-8769-d783093d10e1"
+			},
+			{
+				"name": "Cup",
+				"slug": "cup",
+				"uid": "cf8ca5e1-7d38-4e02-8b30-76c3f1372035"
+			},
+			{
+				"name": "Ball",
+				"slug": "ball",
+				"uid": "d343401d-9e37-4100-8ee6-6bc330cfe02c"
+			},
+			{
+				"name": "Football",
+				"slug": "football",
+				"uid": "ed276604-1869-4717-8c0d-ff96e08bacdc"
+			},
+			{
+				"name": "World",
+				"slug": "world",
+				"uid": "fbbb5717-b175-4522-bafa-0557e4aa1123"
+			}
+		],
+		"category":
+		{
+			"name": "Furniture & Fixtures",
+			"path": "furniture-fixtures",
+			"slug": "furniture-fixtures",
+			"uid": "3da1d2bd-49b4-4bc5-90e5-d31dadec3bd0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "413b41b6-3318-464b-87a0-793072660309",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "diskExport",
+	"quality": "",
+	"format": "gltf",
+	"fileId": "87da1a60-dce6-4c01-8ff7-12b55ed2133f",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "413b41b6-3318-464b-87a0-793072660309",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
