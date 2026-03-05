@@ -1,0 +1,117 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>This traffic cone 3D model is a high-quality representation of the ubiquitous safety equipment used to warn drivers and pedestrians of potential hazards on the road. Made of bright orange PVC material and featuring a reflective strip, this cone is an essential tool for any construction or maintenance crew, as well as a fixture of urban and suburban landscapes around the world.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/41a3dbcd-cf25-4490-947a-bb40cf5726da/f92b1e99-7cfd-42c8-aa0f-4b719acce48c.jpeg",
+		"publishedAt": "2025-10-03T14:42:03.557602Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/88109a57-e0f5-4f08-973f-7c82aa5a5f57/115917ff-9660-496c-90b9-c7b258871a14.jpeg",
+		"title": "Traffic Cone",
+		"uid": "7d2571d8-d2df-407a-aec2-e717fdcda232",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-v6hyvyr9cnnk3l6u5skqkhuv4gj3fh/cover/9e5a5916.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-v6hyvyr9cnnk3l6u5skqkhuv4gj3fh/profile/24ac956e.png",
+			"sellerName": "WillowBoxArt",
+			"uid": "cc8a0c34-f571-48ad-8398-4ce5ba9f85a1"
+		},
+		"tags": [
+			{
+				"name": "Street",
+				"slug": "street",
+				"uid": "1714b21a-573d-4d0e-aa60-faa1144f56e0"
+			},
+			{
+				"name": "Car",
+				"slug": "car",
+				"uid": "1b19907d-7199-4bea-888b-434c45591ad6"
+			},
+			{
+				"name": "Plastic",
+				"slug": "plastic",
+				"uid": "51c4ad44-f74d-4552-bcd5-1e3b631f4107"
+			},
+			{
+				"name": "Cone",
+				"slug": "cone",
+				"uid": "8a4ce373-8fbf-4ec5-8a18-e1c6573ff8b6"
+			},
+			{
+				"name": "Road",
+				"slug": "road",
+				"uid": "988f4797-e875-45c0-91b2-61a8f40d65a0"
+			},
+			{
+				"name": "Stylized",
+				"slug": "stylized",
+				"uid": "b584e222-c5bf-43b3-b9ed-f937eaf169c1"
+			},
+			{
+				"name": "Traffic",
+				"slug": "traffic",
+				"uid": "f29a0640-3170-4327-880a-aa07d250e18e"
+			}
+		],
+		"category":
+		{
+			"name": "Vehicles & Transportation",
+			"path": "vehicles-transportation",
+			"slug": "vehicles-transportation",
+			"uid": "0bb33d40-c52f-4f88-86df-eeff7fcf7ba9"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "cc9d1da5-652b-4312-aa41-df473013ade7",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "UE_5.6",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "51ccf32b-6c8c-4edb-9cea-e8f835feae46",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "cc9d1da5-652b-4312-aa41-df473013ade7",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
