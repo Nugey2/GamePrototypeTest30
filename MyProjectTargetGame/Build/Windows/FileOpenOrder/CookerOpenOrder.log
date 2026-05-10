@@ -31,7 +31,6 @@
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 30
 "../../../Engine/Content/EngineSounds/Master.uasset" 31
 "../../../Engine/Content/EngineSounds/Master.uexp" 32
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Math/WithinRangeFloat2.uasset" 37
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 33
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 34
 "../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAudioPipeline.uasset" 35
